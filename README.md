@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imenhammami12&theme=tokyonight&column=7&margin-w=10&no-bg=true&no-frame=true" alt="trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imenhammami12&bg_color=0D1117&color=FF6EB4&line=FF6EB4&point=FFFFFF&hide_border=true" width="100%"/>
 </p>
 
 ---
