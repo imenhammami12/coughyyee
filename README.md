@@ -45,13 +45,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imenhammami12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EB4&icon_color=FF6EB4" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=imenhammami12&theme=radical&hide_border=true&background=0D1117&ring=FF6EB4&fire=FF6EB4&currStreakLabel=FF6EB4" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imenhammami12&theme=radical&utcOffset=1" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenhammami12&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EB4&layout=compact" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imenhammami12&theme=radical&utcOffset=1" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imenhammami12&theme=radical" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imenhammami12&theme=radical" width="48%"/>
 </p>
 
 ### 🌸 Connect with me
