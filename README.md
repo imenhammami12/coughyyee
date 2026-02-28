@@ -85,9 +85,9 @@ enhance this :<p align="center">
 ### 🌸 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/imen-hammami">
+  <a href="https://www.linkedin.com/in/hammami-imen-939559221/">
     <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+</a>
   &nbsp;
   <a href="https://twitter.com/HammamiIme24289">
     <img src="https://img.shields.io/badge/Twitter-C084FC?style=for-the-badge&logo=twitter&logoColor=white"/>
