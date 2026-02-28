@@ -1,8 +1,15 @@
-enhance this :<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=280&section=header&text=%E2%9C%A8+Imen+Hammami+%E2%9C%A8&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%90%B1+Code+%E2%80%A2+Create+%E2%80%A2+Caffeinate+%F0%9F%8E%A7&descAlignY=58&descSize=22" width="100%"/>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=24&pause=1000&color=FF007F&center=true&vCenter=true&width=500&lines=%F0%9F%8C%B8+Welcome+to+my+digital+garden;%F0%9F%90%B1+Cat-powered+developer;%F0%9F%92%AB+Making+magic+one+commit+at+a+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Welcome+to+my+pink+digital+world+%F0%9F%8C%B8;She+codes%2C+she+slays%2C+she+caffeinate+%F0%9F%8E%80;Cat-powered+%26+glitter-fueled+developer+%F0%9F%90%B1;Making+magic+one+commit+at+a+time+%F0%9F%92%85;Turning+dreams+into+deployments+%E2%9C%A8" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="30"/>
 </p>
 
 
