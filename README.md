@@ -43,9 +43,18 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imenhammami12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EB4&icon_color=FF6EB4" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=imenhammami12&theme=radical&hide_border=true&background=0D1117&ring=FF6EB4&fire=FF6EB4&currStreakLabel=FF6EB4" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=imenhammami12&theme=radical&hide_border=true&background=0D1117&ring=FF6EB4&fire=FF6EB4&currStreakLabel=FF6EB4" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenhammami12&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EB4&layout=compact" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imenhammami12&bg_color=0D1117&color=FF6EB4&line=FF6EB4&point=FFFFFF&hide_border=true" width="100%"/>
 </p>
 ### 🌸 Connect with me
 
